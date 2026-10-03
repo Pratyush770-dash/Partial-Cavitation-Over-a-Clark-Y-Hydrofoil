@@ -95,7 +95,7 @@ Plots are in `results/figures/`: Cp at σ = 5 and σ = 1.6, wall y⁺, lift, dra
 ├── mesh/
 │   └── CFD_mesh
 ├── case_files/
-│   └── cavitation_simulation
+│   └── (all cas.h5 files containing data and results)
 └── results/
     └── figures/                   → Cp, y+, lift, drag, vapour volume, residuals
 ```
